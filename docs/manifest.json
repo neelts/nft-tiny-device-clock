@@ -1,6 +1,7 @@
 {
     "name": "Tiny Device #08: Alarm G-Clock",
     "short_name": "G-Clock",
+    "id": "tiny-device-08-g-clock",
     "description": "Interactive clock with an alarm function which shows GM/GA/GE/Gn instead of AM/PM",
     "icons": [
         {
