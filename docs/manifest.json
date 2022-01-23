@@ -8,7 +8,13 @@
             "src": "favicon.svg",
             "sizes": "48x48 72x72 96x96 128x128 144x144 168x168 192x192 256x256 512x512",
             "type": "image/svg+xml",
-            "purpose": "any maskable"
+            "purpose": "any"
+        },
+        {
+            "src": "mask.svg",
+            "sizes": "48x48 72x72 96x96 128x128 144x144 168x168 192x192 256x256 512x512",
+            "type": "image/svg+xml",
+            "purpose": "maskable"
         },
         {
             "src": "icon-48.png",
