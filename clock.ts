@@ -12,6 +12,8 @@ const SVG = "http://www.w3.org/2000/svg";
 const get = (id: string): SVGElement | HTMLElement | unknown => document.getElementById(id);
 
 const root = <SVGSVGElement>document.getElementsByTagNameNS(SVG, 'svg')[0];
+root.setAttribute('viewBox', '0 0 728 416');
+(<SVGGElement>get('clock')).style.transform = 'translate(-148px, -302px)';
 
 const chars = {
 	'a': '--+---++--++++--+-+-+---',

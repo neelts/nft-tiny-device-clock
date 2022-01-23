@@ -7,4 +7,4 @@ fs.writeFileSync(
 	'build/clock.js', `document.body.innerHTML += \`${read('clock.svg')}\`\n${read('clock.js')}`
 );
 
-//exec('uglifyjs build/clock.js -c -m -o build/clock.js');
+exec('uglifyjs build/clock.js -c -m -o build/clock.js');
