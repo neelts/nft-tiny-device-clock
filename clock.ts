@@ -1,7 +1,8 @@
 /**
  *
- *        Tiny Devices #A: Calc
- *        Fully functional generative calculators for FxHash
+ *        Tiny Device #08: Alarm G-Clock
+ *        Interactive clock with an alarm function which shows GM/GA/GE/Gn instead of AM/PM
+ *        Genesis Versum piece
  *        Author: @neelts
  *        Twitter: https://twitter.com/neelts
  *
